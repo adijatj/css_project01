@@ -231,10 +231,6 @@ plt.title('Relationship between Movie Runtime and Revenue Generated')
 plt.show()
 
 
-"""
-ce
-"""
-
 #Correlation between Runtime and metascore
 import matplotlib.pyplot as plt
 
