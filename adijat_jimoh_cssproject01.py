@@ -285,7 +285,7 @@ No correlation between metascore and revenue
 
 
 #Recommendation
-A longer movie duration greater than 1 hour 30 minutes earns higher scores from critics so movies runtime should be extended beyone 90 minutes for higher ratings
+A longer movie duration greater than 1 hour 30 minutes earns higher scores from critics so movies runtime should be extended beyond 90 minutes for higher ratings
 Though user ratings are not influenced by runtime, it appears to be influenced by critics scores, so the critiques should not be ignored when directing new movies.
 This is likely to generate higher profits in terms of revenues if adhered to.
 
